@@ -620,6 +620,9 @@ După ce ai configurat toate fișierele și componentele, este timpul să rulezi
 
 - **useState**: Permite adăugarea stării locale în componentele funcționale.
 
+# Video Proiect
+https://we.tl/t-XLF2yqCrjE
+
 ---
 ## Autor: Igor Silov
 Grupa: IAFR2101(RO)
